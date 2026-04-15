@@ -1,0 +1,23 @@
+<h2>TEST 9: Calculations</h2>
+<h2>Simple</h2>
+<calc>
+1+1
+10*10
+100-50
+100/4
+</calc>
+
+<h2>With formula</h2>
+<calc s>
+2+2
+sqrt(144)
+sin(pi/2)
+</calc>
+
+<h2>Complex</h2>
+<calc>
+2^10
+log(1000)
+cos(0)
+pi*2
+</calc>

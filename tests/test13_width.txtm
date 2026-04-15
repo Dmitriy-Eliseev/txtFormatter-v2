@@ -1,0 +1,22 @@
+<h2>TEST 13: Document width</h2>
+<table>
+A|B
+1|2</table>
+
+<doc_width 60>
+<h2>Width 60</h2>
+<table>
+A|B
+1|2</table>
+
+<doc_width 120>
+<h2>Width 120</h2>
+<table>
+A|B
+1|2</table>
+
+<default_width>
+<h2>Default</h2>
+<table>
+A|B
+1|2</table>

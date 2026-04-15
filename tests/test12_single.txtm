@@ -1,0 +1,25 @@
+<h2>TEST 12: Single tags</h2>
+<h2>Date</h2>
+<date>
+
+<h2>Time</h2>
+<time>
+
+<h2>Date and time</h2>
+<datetime>
+
+<h2>Separators</h2>
+<sep>
+<sep ->
+<sep +>
+<sep *>
+<sep #>
+
+<h2>Blank lines</h2>
+Before.
+<lines 1>
+After 1.
+<lines 3>
+After 3.
+<lines 5>
+After 5.

@@ -1,0 +1,4 @@
+<h2>TEST 3: H3 Headers</h2>
+<h3>Simple H3</h3>
+<h3 #>H3 with hash</h3>
+<h3 *>H3 with asterisk</h3>

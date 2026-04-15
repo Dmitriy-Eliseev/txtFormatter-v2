@@ -1,0 +1,25 @@
+<h1>TEST 20: Multiple features</h1>
+
+<p>This document tests multiple features together.</p>
+
+<frame>
+<calc>100+200</calc>
+</frame>
+
+<table>
+Item|Price|Qty
+Apple|1.5|10
+Orange|2.0|5</table>
+
+<histogram>
+A|50
+B|30
+C|70</histogram>
+
+<list *>Apple
+Orange
+Banana</list>
+
+<sep>
+
+<center>Centered text at the end</center>

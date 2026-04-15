@@ -1,0 +1,22 @@
+<h2>TEST 17: Cyrillic and UTF-8</h2>
+<center>Hello world!</center>
+
+<p>First paragraph with Cyrillic text.
+Second line.</p>
+
+<frame>Frame with Russian text
+<center>center</center>
+</frame>
+
+<table>
+Parameter|Value
+Temperature|25
+Pressure|101.3</table>
+
+<histogram>
+Gold|100
+Silver|50</histogram>
+
+<list>First
+Second
+Third</list>

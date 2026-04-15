@@ -1,0 +1,11 @@
+<h2>TEST 6: Paragraphs</h2>
+<h2>Normal paragraph</h2>
+<p>A simple paragraph with text to verify formatting and indentation.</p>
+
+<h2>Right-aligned paragraph</h2>
+<p R>A paragraph aligned to the right.</p>
+
+<h2>Multi-line paragraph</h2>
+<p>First line of the paragraph.
+Second line of the paragraph.
+Third line of the paragraph.</p>

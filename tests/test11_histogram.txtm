@@ -1,0 +1,16 @@
+<h2>TEST 11: Histograms</h2>
+<histogram>
+Gold|2505.25
+Silver|27.835
+Platinum|939.30</histogram>
+
+<h2>With asterisk</h2>
+<histogram *>
+A|100
+B|50
+C|75</histogram>
+
+<h2>With plus</h2>
+<histogram +>
+X|200
+Y|100</histogram>

@@ -1,0 +1,15 @@
+<h2>TEST 5: Alignment</h2>
+<h2>Center</h2>
+<center>Short</center>
+<center>
+First line
+Second line
+Third line
+</center>
+
+<h2>Right</h2>
+<right>Short</right>
+<right>
+First line
+Second line
+</right>

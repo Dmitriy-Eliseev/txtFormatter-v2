@@ -1,0 +1,7 @@
+<h2>TEST 15: 2-level nesting</h2>
+<center><frame>Centered frame</frame></center>
+<frame><center>Frame with center</center></frame>
+
+<frame><list>First
+Second</list></frame>
+<center><h4>Centered header</h4></center>
