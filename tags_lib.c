@@ -11,6 +11,11 @@
 #include "tags_lib.h"
 #include "utf8_utils.h"
 
+/* NAME_MAX is not defined on Windows — define a reasonable default */
+#ifndef NAME_MAX
+#define NAME_MAX 255
+#endif
+
 /* Forward declarations for functions defined in other translation units.
  * These are needed because tags_lib.h no longer includes tags.h/tag_handler.h
  * to break circular dependencies. */
